@@ -52,7 +52,7 @@ This is a simple Todo App built with React, utilizing Tailwind CSS for styling. 
 
 ## Usage
 
-- Enter a task in the input field and click "Add Task" to add it to the list.
+- Enter a task in the input field and click "Add Task" or "Click Enter" to add it to the list.
 - Click on a task title to mark it as completed or incomplete.
 - Click the "Delete" button next to a task to remove it from the list.
 - Use the filter dropdown to view all tasks, completed tasks, or incomplete tasks.
