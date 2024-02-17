@@ -1,6 +1,3 @@
-Certainly! Here's a basic template for your README file with Vite, React, Tailwind CSS, and React Hot Toast:
-
----
 
 # React Todo App
 
