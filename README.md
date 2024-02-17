@@ -9,14 +9,12 @@ This is a simple Todo App built with React, utilizing Tailwind CSS for styling. 
 - **Toggle Task Completion**: Users can mark tasks as completed or incomplete by clicking on the task title or the checkbox beside it.
 - **Delete Task**: Users can delete tasks from the list by clicking the "Delete" button next to the task.
 - **Filtering**: Users can filter tasks to view all tasks, only completed tasks, or only incomplete tasks.
-- **Notifications**: Notifications are displayed using React Hot Toast to provide feedback to users for successful actions or errors.
 
 ## Technologies Used
 
 - Vite
 - React
 - Tailwind CSS
-- React Hot Toast
 - React-icons
 
 ## Installation
@@ -53,11 +51,10 @@ This is a simple Todo App built with React, utilizing Tailwind CSS for styling. 
 
 ## Usage
 
-- Enter a task in the input field and click "Add Task" to add it to the list.
+- Enter a task in the input field and click "Add Task" or "Click Enter" to add it to the list.
 - Click on a task title to mark it as completed or incomplete.
 - Click the "Delete" button next to a task to remove it from the list.
 - Use the filter dropdown to view all tasks, completed tasks, or incomplete tasks.
-- Notifications will appear for successful actions (e.g., task added, task deleted) and errors.
 
 ## License
 
